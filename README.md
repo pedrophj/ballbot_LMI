@@ -7,6 +7,7 @@ Na pasta Simulador 3D estão disponíveis os arquivos para simular a variação 
 
 Com relação ao sistema embarcado, acesse a pasta programa Arduino. Nesta pasta estão os códigos para implementar no Arduino Mega os controladores de posição, velocidade, guinada e velocidade de guinada.
 
-![ballbot](https://user-images.githubusercontent.com/3063514/115995591-3b256400-a5b2-11eb-82c8-4d1edec288ac.png)
+![ballbot](https://user-images.githubusercontent.com/3063514/115997183-a1ad8080-a5b8-11eb-9db3-2a937ab3970d.png)
+
 
 
