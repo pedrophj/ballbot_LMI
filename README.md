@@ -1,3 +1,4 @@
+![ballbotOjtTrack](https://user-images.githubusercontent.com/3063514/115994014-b59eb580-a5ab-11eb-820c-77fe622fc304.png)
 # ballbot_LMI
 Esse repositório tem como objetivo compartilhar as informações para você construir um ballbot.
 
