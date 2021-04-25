@@ -3,14 +3,14 @@ Lista de arquivos para impressão.
 	Para imprimir uma estrutura do ballbot:
     
     Quantidade      Arquivo 
-      1             robo_tampaInferior.STL
-      1             robo_tampaSuperior.STL
-      1             robo_disco.STL
-      6             robo_janela.STL
-      3             robo_suporteMotor.STL
-      3             robo_suporteMotorDisco.STL
-      3             robo_paralama.STL
-      3             robo_apoioDisco.STL
+      1             robo_tampaInferior.stl
+      1             robo_tampaSuperior.stl
+      1             robo_disco.stl
+      6             robo_janela.stl
+      3             robo_suporteMotor.stl
+      3             robo_suporteMotorDisco.stl
+      3             robo_paralama.stl
+      3             robo_apoioDisco.stl
       
     Para imprimir uma roda do ballbot:
     
