@@ -27,11 +27,11 @@ Os arquivos e códigos apresentados neste repositório são referentes a constru
 - CoppeliaSim versão superior ou igual a 4.1.1 
 
 ## Organização dos arquivos
-- 1 Arquivos para impressão 3D
+- Arquivos para impressão 3D
   - Pasta: mecânica
-- 2 Simuladores
+- Simuladores
   - Pastas: MATLAB Simulink e simulador 3D
-- 3 Sistema embarcado
+- Sistema embarcado
   - Pasta: programa Arduino
-- 4 Software para navegação autônoma por waypoints
+- Software para navegação autônoma por waypoints
   - Pasta: software de controle
