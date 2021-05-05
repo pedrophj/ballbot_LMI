@@ -1,6 +1,6 @@
 # Projeto e construção de um robô móvel omnidirecional: Ballbot
 
-**Autor**: Pedro Henrique de Jesus (pedro.jesus@sp.senai.br) ITA / SENAI 
+**Autor**: Pedro Henrique de Jesus (pedro.jesus@sp.senai.br), ITA / SENAI 
 
 **Orientadores**: Cairo L. Nascimento Jr. (cairo@ita.br), Douglas Soares dos Santos (dsoares@ita.br), ITA.
 
