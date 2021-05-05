@@ -25,17 +25,13 @@ Os arquivos e códigos apresentados neste repositório são referentes a constru
 
 ## Pré-requisitos para execução do ballbot no simulador 3D:
 - CoppeliaSim versão superior ou igual a 4.1.1 
-- 
-## Organização dos arquivos
 
+## Organização dos arquivos
 - 1 Arquivos para impressão 3D
   - Pasta: mecânica
-  
 - 2 Simuladores
   - Pastas: MATLAB Simulink e simulador 3D
-  
 - 3 Sistema embarcado
   - Pasta: programa Arduino
-
 - 4 Software para navegação autônoma por waypoints
   - Pasta: software de controle
