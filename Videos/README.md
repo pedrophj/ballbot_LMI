@@ -1,17 +1,17 @@
 
 | Arquivo | Descrição |
 | :---: | :---: | 
-| experimento_controle_app.mp4 | a |
-| experimento_controle_guinada_app.mp4 | a | 
-| experimento_navegacao_2.mp4 | a | 
-| experimento_navegacao_3.mp4 | a | 
-| experimento_navegacao_4.mp4 | a | 
-| experimento_navegacao_reta.mp4 | a | 
-| experimento_rastreamento_guinada.mp4 | a | 
-| experimento_rastreamento_translacao.mp4 | a | 
-| navegacao_coppelia_19pontos.mp4 | a | 
-| navegacao_coppelia_4pontos_modo1.mp4 | a | 
-| navegacao_coppelia_4pontos_modo2.mp4 | a | 
+| experimento_controle_app.mp4 | Funcionamento do controle via *bluetooth*, com translação e guinada do *ballbot*|
+| experimento_controle_guinada_app.mp4 | Funcionamento do controle de guinada via *bluetooth* | 
+| experimento_navegacao_2.mp4 | Experimento de navegação autônoma por 2 *waypoints* | 
+| experimento_navegacao_3.mp4 | Experimento de navegação autônoma por 3 *waypoints* | 
+| experimento_navegacao_4.mp4 | Experimento de navegação autônoma por 4 *waypoints* | 
+| experimento_navegacao_reta.mp4 | Experimento que o robô executa uma trajetória de uma reta | 
+| experimento_rastreamento_guinada.mp4 | O robô com câmera embarcada rastreia um objeto colorido, somente guinada e sem translação | 
+| experimento_rastreamento_translacao.mp4 | O robô com câmera embarcada rastreia um objeto colorido, com guinada e translação  | 
+| navegacao_coppelia_19pontos.mp4 | Simulação no CoppeliaSim, onde o *ballbot* segue uma trajetória de formato "8", com 19 pontos | 
+| navegacao_coppelia_4pontos_modo1.mp4 | Simulação no CoppeliaSim, onde o *ballbot* segue uma trajetória de 4 pontos, com permissão de variar a guinada  | 
+| navegacao_coppelia_4pontos_modo2.mp4 | Simulação no CoppeliaSim, onde o *ballbot* segue uma trajetória de 4 pontos, com orientação fixa durante o trajeto todo   | 
 
 
 
