@@ -1,4 +1,21 @@
 
+| Arquivo | Descrição |
+| :---: | :---: | 
+| experimento_controle_app.mp4 | a |
+| experimento_controle_guinada_app.mp4 | a | 
+| experimento_navegacao_2.mp4 | a | 
+| experimento_navegacao_3.mp4 | a | 
+| experimento_navegacao_4.mp4 | a | 
+| experimento_navegacao_reta.mp4 | a | 
+| experimento_rastreamento_guinada.mp4 | a | 
+| experimento_rastreamento_translacao.mp4 | a | 
+| navegacao_coppelia_19pontos.mp4 | a | 
+| navegacao_coppelia_4pontos_modo1.mp4 | a | 
+| navegacao_coppelia_4pontos_modo2.mp4 | a | 
+
+
+
+
 ## Vídeos do Simulador CoppeliaSim
 
 Os vídeos abaixo mostram a navegação autônoma com 4 *waypoints*, operando em dois modos. O modo 1 a referência de guinada é alterada com o objetivo do robô orientar em direção ao *waypoint* atual. O modo 2 o robô executa a missão com uma orientação fixa. 
