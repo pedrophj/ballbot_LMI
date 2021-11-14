@@ -24,9 +24,7 @@ No primeiro vídeo o robô deve seguir o objeto colorido, ou seja, o objeto deve
 Os vídeos mostram os resultados de navegação com 2, 3 e 4 *waypoints*. Essa lista é carregada em um arquivo .txt no software de controle e então é enviada via *bluetooth* para o robô. O *ballbot* deve seguir ponto a ponto até completar todos os pontos da lista. 
 
 As coordenadas de 2 pontos (em centímetros) foram: [[75,150],[75,50]]
-
 As coordenadas de 3 pontos (em centímetros) foram: [[100,150],[50,150],[50,50]]
-
 As coordenadas de 4 pontos (em centímetros) foram: [[100,150], [50,150], [50,50],[100,50]]
 
 - experimento_navegacao_2.mp4
