@@ -24,3 +24,12 @@ No primeiro vídeo o robô deve seguir o objeto colorido. Nesse experimento o ro
 
 - experimento_rastreamento_guinada.mp4
 - experimento_rastreamento_translacao.mp4
+
+### Vídeos de navegação por waypoints
+
+Os vídeos mostram os resultados de navegação com 2,3 e 4 waypoints. Essa lista é carregada em um arquivo .txt no software de controle e então é enviada via bluetooth para o robô. O ballbot deve seguir ponto a ponto até completar todos os pontos da lista. 
+
+- experimento_navegacao_2.mp4
+- experimento_navegacao_3.mp4
+- experimento_navegacao_4.mp4
+- experimento_navegacao_reta.mp4
