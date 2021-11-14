@@ -34,3 +34,5 @@ Os arquivos e códigos apresentados neste repositório são referentes a constru
   - Pasta: programa Arduino
 - Software para navegação autônoma por waypoints
   - Pasta: software de controle
+- Vídeos de experimentos reais e simulação
+  - Pasta: vídeos
