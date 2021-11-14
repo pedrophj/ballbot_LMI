@@ -2,7 +2,7 @@
 ## Vídeos do Simulador CoppeliaSim
 
 Os vídeos abaixo mostram a navegação autônoma com 4 *waypoints*, operando em dois modos. O modo 1 a referência de guinada é alterada com o objetivo do robô orientar em direção ao *waypoint* atual. O modo 2 o robô executa a missão com uma orientação fixa. 
-As coordenadas dos pontos (em centímetros) foram: [ [0,100] , [-50,100] , [-50,0] [0,0] ]
+As coordenadas dos pontos (em centímetros) foram: [ [0,100] , [-50,100] , [-50,0] [0,0] ].
 
 - navegacao_coppeliaSim_4pontos_modo1.mp4
 - navegacao_coppeliaSim_4pontos_modo2.mp4
