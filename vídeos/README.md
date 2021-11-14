@@ -14,7 +14,7 @@ A navegação de uma trajetória complexa em formato de "8" no modo 1 é apresen
 
 ## Vídeos de controle via aplicativo
 
-Os dois vídeos abaixo mostram o controle manual via *bluetooth*. No modo de guinada são incrementados as velocidades dos 3 motores. No arquivo experimento_controle_app a translação é feita enviando a referência de velocidade via *bluetooth*.
+Os dois vídeos abaixo mostram o controle manual via *bluetooth*. No modo de guinada são incrementados as velocidades dos 3 motores. No arquivo experimento_controle_app a translação foi executada enviando a referência de velocidade via *bluetooth*.
 
 - experimento_controle_guinada_app.mp4 
 - experimento_controle_app.mp4
