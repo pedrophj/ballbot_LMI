@@ -27,11 +27,11 @@ Os vídeos mostram os resultados de navegação com 2, 3 e 4 *waypoints*. Essa l
 - experimento_navegacao_3.mp4
 - experimento_navegacao_4.mp4
 - experimento_navegacao_reta.mp4
-- 
+
 As coordenadas dos pontos(em centímetros) foram: 
--- 2 pontos = [[75,150],[75,50]]; 
--- 3 pontos = [[100,150],[50,150],[50,50]]; 
--- 4 pontos = [[100,150], [50,150], [50,50],[100,50]].
+- 2 pontos = [[75,150],[75,50]]; 
+- 3 pontos = [[100,150],[50,150],[50,50]]; 
+- 4 pontos = [[100,150], [50,150], [50,50],[100,50]].
 
 
 
