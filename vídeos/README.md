@@ -12,13 +12,6 @@ A navegação de uma trajetória complexa em formato de "8" no modo 1 é apresen
 - navegacao_coppeliaSim_19pontos.mp4
 
 
-## Vídeos de controle via aplicativo
-
-Os dois vídeos abaixo mostram o controle manual via *bluetooth*. No modo de guinada são incrementados as velocidades dos 3 motores. No arquivo experimento_controle_app a translação foi executada enviando a referência de velocidade via *bluetooth*.
-
-- experimento_controle_guinada_app.mp4 
-- experimento_controle_app.mp4
-
 ## Vídeos de rastreamento de objetos
 
 No primeiro vídeo o robô deve seguir o objeto colorido, ou seja, o objeto deve estar sempre no centro da imagem captada pela câmera embarcada no robô. Nesse experimento o robô está a 1 metro de distância do objeto. A posição do objeto colorido é alterada em 3 etapas com distância total de 30 cm. O objetivo de analisar apenas a guinada do robô. No segundo vídeo é testado tanto a guinada como a translação.
@@ -37,3 +30,10 @@ As coordenadas de 4 pontos (em centímetros) foram: [[100,150], [50,150], [50,50
 - experimento_navegacao_3.mp4
 - experimento_navegacao_4.mp4
 - experimento_navegacao_reta.mp4
+
+## Vídeos de controle via aplicativo
+
+Os dois vídeos abaixo mostram o controle manual via *bluetooth*. No modo de guinada são incrementados as velocidades dos 3 motores. No arquivo experimento_controle_app a translação foi executada enviando a referência (10 cm/s) de velocidade via *bluetooth*.
+
+- experimento_controle_guinada_app.mp4 
+- experimento_controle_app.mp4
