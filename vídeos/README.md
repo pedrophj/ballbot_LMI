@@ -21,7 +21,7 @@ Os dois vídeos abaixo mostram o controle manual via *bluetooth*. No modo de gui
 
 ## Vídeos de rastreamento de objetos
 
-No primeiro vídeo o robô deve seguir o objeto colorido. Nesse experimento o robô está a 1 metro de distância do objeto. O objeto colorido é alterado em 3 posições com distância de 30 cm, com o objetivo de analisar apenas a guinada do robô. No segundo vídeo é testado tanto a guinada como a translação.
+No primeiro vídeo o robô deve seguir o objeto colorido, ou seja, o objeto deve estar sempre no centro da imagem captada pela câmera embarcada no robô. Nesse experimento o robô está a 1 metro de distância do objeto. A posição do objeto colorido é alterada em 3 etapas com distância total de 30 cm. O objetivo de analisar apenas a guinada do robô. No segundo vídeo é testado tanto a guinada como a translação.
 
 - experimento_rastreamento_guinada.mp4
 - experimento_rastreamento_translacao.mp4
