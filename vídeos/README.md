@@ -1,3 +1,5 @@
 
-Os vídeos dos experimentos foram dividos em:
+Os vídeos do simulador CoppeliaSim sao:
+
+
 
