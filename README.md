@@ -1,4 +1,4 @@
-# Projeto e construção de um robô móvel omnidirecional: Ballbot
+# Projeto, Construção e Testes de Um Robô Móvel Omnidirecional do Tipo *Ballbot*
 
 **Autor**: Pedro Henrique de Jesus (pedro.jesus@sp.senai.br), ITA / SENAI 
 
