@@ -36,3 +36,6 @@ Os arquivos e códigos apresentados neste repositório são referentes a constru
   - Pasta: software de controle
 - Vídeos de experimentos reais e simulação
   - Pasta: vídeos
+- My_Publications
+  - Dissertação_Ballbot_Pedro_HJ.pdf: PDF da dissertação do mestrado
+  - Pasta: Presentation (Apresentação)
