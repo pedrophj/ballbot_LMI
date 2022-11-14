@@ -33,9 +33,9 @@ The files and codes presented in this repository refer to the construction of th
 - Embedded system
   - Folder: Arduino program
 - Software for autonomous waypoint navigation
-  - Folder: control software
+  - Folder: Control software
 - Videos of real experiments and simulation
-  - Folder: videos
+  - Folder: Videos
 - My_Publications
   - Dissertação_Ballbot_Pedro_HJ.pdf: PDF of the master's dissertation
   - Folder: Presentation
