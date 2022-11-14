@@ -7,7 +7,8 @@
 ## Abstract:
 The files and codes presented in this repository refer to the construction of the ballbot robot. This robot rides on top of a basketball, and falls into a recent category of omnidirectional robots. In addition to the construction, files are available for the implementation of the camera location system, autonomous waypoint navigation and object tracking system.
 
-![ballbot - menor](https://user-images.githubusercontent.com/3063514/115997235-d588a600-a5b8-11eb-87ae-f8e5373d7077.png)
+
+![ballbot _1](https://user-images.githubusercontent.com/3063514/201651210-f42866a7-5272-4d60-b8e2-573a2f8de0ff.png)
 
 
 ## Prerequisites for running MATLAB files:
