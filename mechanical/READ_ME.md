@@ -1,8 +1,8 @@
-Lista de arquivos para impressão.
+List of printable files
 
-	Para imprimir uma estrutura do ballbot:
+To print a ballbot structure:
     
-    Quantidade      Arquivo 
+    Number          File 
       1             robo_tampaInferior.stl
       1             robo_tampaSuperior.stl
       1             robo_disco.stl
@@ -12,9 +12,9 @@ Lista de arquivos para impressão.
       3             robo_paralama.stl
       3             robo_apoioDisco.stl
       
-    Para imprimir uma roda do ballbot:
+To print a ballbot wheel:
     
-    Quantidade      Arquivo 
+    Number          File 
       6             roda_roleteMenor.stl
       6             roda_roleteMaior.stl
       1             roda_garfo.stl
