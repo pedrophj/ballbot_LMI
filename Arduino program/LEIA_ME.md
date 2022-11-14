@@ -1,3 +1,3 @@
 
 
-O principal arquivo é o ballbot3.ino
+Main file: ballbot3.ino
