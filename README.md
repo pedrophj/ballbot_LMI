@@ -38,4 +38,5 @@ The files and codes presented in this repository refer to the construction of th
   - Folder: Videos
 - My_Publications
   - Dissertação_Ballbot_Pedro_HJ.pdf: PDF of the master's dissertation
+  - Artigo SysCon 2024: Design and Experimental Validation of a Ballbot: A Self-balancing Omnidirectional Robot.pdf
   - Folder: Presentation
